@@ -3,7 +3,7 @@
 #define WINDOW_WIDTH 800
 #define WINDOW_HEIGHT 600
 #define CELL_SIZE 20
-#include <SDL.h>
+
 // Declare global variables as extern
 extern SDL_Window* window;
 extern SDL_Renderer* renderer;
